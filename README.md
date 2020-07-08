@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <read>
+  <head>
     <meta charset="utf-8" />
     <meta http=equiv="X]UA-compatible" content="IE=edge">
-    <title>Curso de Git e GitHub</title>
-  </read>
+    <title>treining integration Git and GitHub</title>
+  </head>
   <body>
     <h2>title</h2>
     <p>Text the project</p>
